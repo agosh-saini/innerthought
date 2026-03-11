@@ -118,7 +118,7 @@ function HeroContent() {
         transition={{ duration: 1.2 }}
         style={{ color: "#c9a84c", fontSize: "0.75rem", marginBottom: "1.5rem", textTransform: "uppercase" }}
       >
-        innerloop
+        innerthought
       </motion.p>
       <motion.h1
         initial={{ opacity: 0, y: 30 }}
@@ -234,7 +234,7 @@ function FinalContent() {
         transition={{ duration: 1.5 }}
         style={{ color: "#c9a84c", fontSize: "0.7rem", textTransform: "uppercase", marginBottom: "1.2rem" }}
       >
-        innerloop
+        innerthought
       </motion.p>
       <motion.h2
         initial={{ opacity: 0, y: 20 }}

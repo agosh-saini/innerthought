@@ -3,7 +3,7 @@ import { SpeedInsights } from "@vercel/speed-insights/next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "innerloop — The Next Interface Is Thought",
+  title: "innerthought — The Next Interface Is Thought",
   description: "Subvocal AI headphones that turn inner monologue into conversation.",
 };
 

@@ -52,7 +52,7 @@ export default function SignupSection() {
             opacity: 0.7,
           }}
         >
-          innerloop
+          innerthought
         </p>
 
         {/* Headline */}
@@ -110,7 +110,7 @@ export default function SignupSection() {
         </a>
 
         <p style={{ marginTop: "4rem", fontSize: "0.7rem", color: "#d4b483", opacity: 0.35, letterSpacing: "0.05em" }}>
-          &copy; {new Date().getFullYear()} innerloop
+          &copy; {new Date().getFullYear()} innerthought
         </p>
       </motion.div>
     </section>
